@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Антон\OneDrive\Рабочий стол\вычматы\lab_1\Multi_physhics_1\Multi_physhics_1\Source.cpp(109,16): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\Антон\OneDrive\Рабочий стол\вычматы\lab_1\Multi_physhics_1\Multi_physhics_1\Source.cpp(166,16): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+  Multi_physhics_1.vcxproj -> C:\Users\Антон\OneDrive\Рабочий стол\вычматы\lab_1\Multi_physhics_1\Debug\Multi_physhics_1.exe
